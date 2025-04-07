@@ -20,6 +20,7 @@ Abstract: Considering higher-order interactions allows for a more comprehensive 
  network learning.
 
 Python version: 3.12.4
+
 Pytorch version: 2.4.0
 
 Files demonstrate the structure of the proposed objective function as well as optimization procedure
