@@ -21,3 +21,11 @@ Abstract: Considering higher-order interactions allows for a more comprehensive 
 
 Python version: 3.12.4
 Pytorch version: 2.4.0
+
+Files demonstrate the structure of the proposed objective function as well as optimization procedure
+
+synthetic experiments.ipynb : Experiment threshold on balanced and imbalanced setting
+
+Real datasets.ipynb : Experiment threshold on Cora, Citeseer, and Pubmed
+
+func.py : utils and functions
