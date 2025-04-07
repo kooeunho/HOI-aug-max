@@ -23,7 +23,7 @@ Python version: 3.12.4
 
 Pytorch version: 2.4.0
 
-Files demonstrate the structure of the proposed objective function as well as optimization procedure
+Files demonstrate the structure of the proposed augmented maximal clique strategy as well as optimization procedure
 
 synthetic experiments.ipynb : Experiment threshold on balanced and imbalanced setting
 
