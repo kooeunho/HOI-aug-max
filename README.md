@@ -25,8 +25,8 @@ Pytorch version: 2.4.0
 
 Files demonstrate the structure of the proposed augmented maximal clique strategy as well as optimization procedure
 
-synthetic experiments.ipynb : Experiment threshold on balanced and imbalanced setting
+Synthetic experiments.ipynb : Experiment threshold on balanced and imbalanced setting
 
-Real datasets.ipynb : Experiment threshold on Cora, Citeseer, and Pubmed
+GNN experiments.ipynb : All real dataset experiments
 
-func.py : utils and functions
+function.py : utils and functions for the synthetic experiments
